@@ -2,7 +2,7 @@
     "name": "rongqiangqin/getui",
     "type": "php-packages",
     "description": "个推,app push推送,andorid,ios",
-    "keywords": ["getui", "个推,app push推送,andorid,ios"],
+    "keywords": ["getui","个推","iso推送","android推送"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/xiaopenggithub/getui/issues",
